@@ -1,2 +1,4 @@
 # Responsive-Web-Design
-Responsive Web Design  套版
+
+
+訂閱電子報 Responsive Web Design 套版
